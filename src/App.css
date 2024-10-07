@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+  box-sizing: border-box;
+  text-shadow: #000 1px 1px;
+  font-family: Helvetica;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("assets/5k-background-g10w4dna7498op6u.jpg");
+  background-size: cover;
+  background-position: center;
+}
